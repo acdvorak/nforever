@@ -1,0 +1,4 @@
+# Default: Let git automatically handle line endings.
+# Files will be checked out with the OS's native line endings
+# (CRLF on Windows, LF on Mac/Linux) and committed with LF (on all OSes).
+* text=auto
